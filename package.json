@@ -11,7 +11,7 @@
     "url": "git://github.com/krisbreuker/homebridge-gpio-onoff.git"
   },
   "dependencies": {
-    "onoff": "^1.1.1"
+    "onoff": ">=1.1.1"
   },
   "engines": {
     "node": ">=0.12.0",
